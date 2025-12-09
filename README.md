@@ -1,2 +1,2 @@
-# sand-simulator
-2d sand simulator written in python (not realistic)
+# sand-simulaton
+2d sand simulaton written in python (not realistic)
